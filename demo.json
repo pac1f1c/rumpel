@@ -1,0 +1,47 @@
+{
+    "function_type": {
+        "__globals__": {},
+        "__name__": "f",
+        "__code__": {
+            "code_type": {
+                "co_argcount": 0,
+                "co_posonlyargcount": 0,
+                "co_kwonlyargcount": 0,
+                "co_nlocals": 1,
+                "co_stacksize": 2,
+                "co_flags": 67,
+                "co_code": "[100, 1, 100, 0, 108, 0, 125, 0, 116, 1, 100, 2, 131, 1, 1, 0, 100, 0, 83, 0]",
+                "co_consts": {
+                    "tuple_type": [
+                        null,
+                        0,
+                        "Hello World"
+                    ]
+                },
+                "co_names": {
+                    "tuple_type": [
+                        "re",
+                        "print"
+                    ]
+                },
+                "co_varnames": {
+                    "tuple_type": [
+                        "re"
+                    ]
+                },
+                "co_filename": "/Users/livik/Desktop/RuSe/JPS/demo.py",
+                "co_name": "f",
+                "co_firstlineno": 3,
+                "co_lnotab": "[0, 1, 8, 1]",
+                "co_freevars": {
+                    "tuple_type": []
+                },
+                "co_cellvars": {
+                    "tuple_type": []
+                }
+            }
+        },
+        "__defaults__": null,
+        "__closure__": null
+    }
+}
